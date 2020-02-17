@@ -1,0 +1,13 @@
+{
+  "name": "nodered-contrib-xanido",
+  "version": "1.0.0",
+  "description": "you probably don't want to use this :)",
+  "main": "index.js",
+  "repository": "https://github.com/xanido/nodered-contrib-xanido",
+  "author": "Timothy Anido <xanido@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
